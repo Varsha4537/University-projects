@@ -1,0 +1,1 @@
+Hello this is the demo2 file for checking whether a directory with files in it can be deleted or not. 
