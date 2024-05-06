@@ -1,0 +1,27 @@
+README FILE:
+
+flame_cp- A simple File copy C Program
+
+GROUP: Varsha Gunturu, Abhipsha Luitel
+
+Description:
+
+flame_cp is a simple c program that utilises the command line for copying files. The program can read a specific	input file through the file's path and copy it into another file through the copy file's path.
+
+We are Mac users and hence based on how it runs on the Mac, we have detailed the steps.
+
+Open the terminal at Assignment 1 folder. 
+Run the command  " gcc my_copy.c -o flame_cp "
+Then run the command " ./flame_cp -i main_file.c -o copy_file_destination.c "
+
+
+COMMAND LINE/ TERMINAL:
+
+gcc my_copy.c -o flame_cp
+
+./flame_cp -i <source file path name> -o <destination file pathname>
+
+This copies the contents of file main_file.c to copy_file_destination.c.
+
+
+
