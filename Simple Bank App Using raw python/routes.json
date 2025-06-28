@@ -1,0 +1,10 @@
+{
+    "/add": "/add.py",
+    "/remove": "/remove.py",
+    "/dashboard": "/dashboard.py",
+    "/login": "/login.py",
+    "/logout": "/logout.py",
+    "/signup": "/signup.py",
+    "/index": "/index.py"
+  }
+  

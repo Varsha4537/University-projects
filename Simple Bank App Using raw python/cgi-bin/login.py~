@@ -1,0 +1,20 @@
+import os
+import random
+
+token = str(random.randint(100000, 999999))
+f = open("session.txt", "w")
+f.write(token)
+f.close()
+
+# Get the redirect target from query string
+query = os.environ.get("QUERY_STRING", "")
+target = "http://localhost:8080/index.py"
+parts = query.split("=")
+if len(parts) == 2 and parts[0] == "return_to":
+    target = parts[1]
+
+print("Set-Cookie: session=" + token)
+print("Status: 302 Found")
+print("Location: " + target)
+print("Content-Type: text/html\n")
+print("<p>Login successful. Redirecting to bank...</p>")
