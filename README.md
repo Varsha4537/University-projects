@@ -95,7 +95,7 @@ GNU Lesser General Public License 3.0
 ## 🙋‍♀️ Author
 
 **Varsha Guntur**
-📫 [LinkedIn](www.linkedin.com/in/varsha-gunturu-906477248) • ✉️ [varsha@example.com](gunturuvarsha@gmail.com)
+📫 [www.linkedin.com/in/varsha-gunturu-906477248](www.linkedin.com/in/varsha-gunturu-906477248) • ✉️ [gunturuvarsha@gmail.com](gunturuvarsha@gmail.com)
 
 ---
 
