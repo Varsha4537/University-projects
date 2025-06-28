@@ -1,0 +1,11 @@
+category,date,amount,tag,description,payment_method
+Food,2024-01-05,25.0,Groceries,Bought fruits and veggies,Debit Card
+Entertainment,2024-02-14,60.0,Valentine’s Dinner,Dinner with partner,Credit Card
+Health,2024-03-22,300.0,Dentist,Teeth cleaning and checkup,Cash
+Rent,2024-04-11,750.0,Rent,Monthly apartment rent,Apple Pay
+Education,2024-05-30,100.0,Books,Bought new books online,Google Pay
+Utilities,2024-06-17,85.0,Internet,Monthly WiFi bill,Bank Transfer
+Shopping,2024-07-08,40.0,Clothes,Bought a new dress,PayPal
+Travel,2024-08-21,150.0,Flights,Booked a ticket to New York,Debit Card
+Transport,2024-09-19,12.0,Taxi,Ride home from the airport,Cryptocurrency
+Miscellaneous,2024-10-25,20.0,Random,Impulse buy at the mall,Credit Card
