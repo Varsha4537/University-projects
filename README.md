@@ -12,22 +12,22 @@ A curated collection of my university coursework and hands-on learning projects�
 | **ANN Customer Churning** | Predicts customer churn using ANN | Python, NumPy, scikit-learn | 2025 |
 | **CNN Ship Classification** | CNN to classify ship types | Python, Keras, TensorFlow | 2025 |
 | **Expense Tracker using Python Sockets** | Client-server expense tracker | Python, Sockets, File I/O | 2025 |
-| **Expense Tracker with Tkinter UI** | GUI for expense tracking | Python, Tkinter, SQLite | 2025 |
+| **Expense Tracker with Tkinter UI** | GUI for expense tracking | Python, Tkinter, File I/O | 2025 |
 | **Python Mini-Curl** | Mini HTTP client to render HTML | Python, Requests | 2025 |
-| **Simple Bank App using Raw Python** | Simulates banking ops | Python (OOP) | 2025 |
-| **Python Expense Tracker with SQLite** | Expense tracker using SQLite DB | Python, SQLite3 | 2025 |
-| **ML Dry Bean Classification Models** | Classifies bean types using ML | Python, scikit-learn | 2025 |
-| **Military Asset - Varsha Guntur** | [Add your brief description] | Python / C? | 2025 |
-| **DSA** | Common data structures & algorithms | C/C++/Python | 2024 |
-| **Bash Shell with C Program** | Shell with basic commands | C, Bash | 2024 |
+| **Simple Bank App using Raw Python** | Simulates banking ops | Python CGI and simple HTTMP server sockets | 2025 |
+| **Python Expense Tracker with SQLite** | Python Expense tracker using SQLite DB | Python, SQLite3 | 2025 |
+| **ML Dry Bean Classification Models** | Classifies bean types using ML models | Python, scikit-learn | 2025 |
+| **Military Asset - Varsha Guntur** | AI and ML models: FNN with embeddings, XG Boost, ANN, Tab Net, Random Forest | Python, keras, TensorFlow | 2025 |
+| **DSA** | Common data structures & algorithms | Python | 2024 |
+| **Bash Shell with C Program** | Shell with basic commands | C | 2024 |
 | **Basic System Calls on Files** | Practice with Unix syscalls | C | 2024 |
-| **Bulk File Manipulation** | File operations utility | C / Python | 2024 |
-| **Photo Editor** | Basic GUI image editor | Python, PIL / OpenCV | 2024 |
+| **Bulk File Manipulation** | File operations utility | C | 2024 |
+| **Photo Editor** | Basic GUI image editor | C++ / OpenCV | 2024 |
 | **File Copy Program** | File copy implementation in C | C | 2024 |
-| **Full Stack Website (File Upload)** | Upload files with UI + backend | HTML/CSS/JS + Backend | 2024 |
+| **Full Stack Website (File Upload)** | Upload files with UI + backend | HTML/CSS + Backend PHP | 2024 |
 | **Interprocess Communication with Pipes** | IPC using pipes & processes | C, Unix | 2024 |
 | **First React Project** | Frontend interface with React | React, JavaScript | 2024 |
-| **Systems Multi Operation** | OS-related process tools | C / Python | 2024 |
+| **Systems Multi Operation** | OS-related process tools | C | 2024 |
 
 ---
 
@@ -83,7 +83,7 @@ npm start
 * 📊 ML Classifier for Agricultural Beans
 * ⚙️ System-level C Programs with Pipes & Syscalls
 * 🌐 Full-stack Web App for File Uploads
-* 💸 Multiple Expense Tracker Versions (CLI, GUI, Networked)
+* 💸 Multiple Expense Tracker Versions (CLI, GUI, Networked, Sockets)
 
 ---
 
@@ -101,4 +101,4 @@ GNU Lesser General Public License 3.0
 
 ## 🌟 Star the Repo
 
-If you found this repository helpful, consider giving it a ⭐️ to support the project!
+If you found this repository helpful, consider giving it a ⭐️ to support the projects!
