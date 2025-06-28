@@ -88,15 +88,14 @@ npm start
 ---
 
 ## 🔒 License
-
-[MIT](LICENSE) — Feel free to use and modify with attribution.
+GNU Lesser General Public License 3.0
 
 ---
 
 ## 🙋‍♀️ Author
 
 **Varsha Guntur**
-📫 [LinkedIn](https://www.linkedin.com/in/varsha-guntur/) • ✉️ [varsha@example.com](mailto:varsha@example.com)
+📫 [LinkedIn](www.linkedin.com/in/varsha-gunturu-906477248) • ✉️ [varsha@example.com](gunturuvarsha@gmail.com)
 
 ---
 
