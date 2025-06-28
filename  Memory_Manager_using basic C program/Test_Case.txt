@@ -1,0 +1,97 @@
+The below is the test Case Given in the guideline
+
+To compile the code and run it in the terminal run the below terminal commands:
+gcc -o memory memory.c
+./memory
+
+
+
+
+Input Suntax:
+ load 
+ print_map 
+ alloc <size> 
+ free <starting position> <no of blocks> : for freeing memory partially allocated
+ compact 
+ save 
+ exit 
+
+User Input
+save
+0 
+
+User Input
+print_map
+
+f f f f f f f f f f 
+f f f f f f f f f f 
+f f f f f f f f f f 
+f f f f f f f f f f 
+f f f f f f f f f f 
+f f f f f f f f f f 
+f f f f f f f f f f 
+f f f f f f f f f f 
+f f f f f f f f f f 
+f f f f f f f f f f 
+
+
+User Input
+alloc 10
+Memory allocated: Starting block = 0, Size = 10
+0
+User Input
+alloc 20
+Memory allocated: Starting block = 10, Size = 20
+0
+User Input
+free 0 10
+Freeing the remaining memory
+Memory successfully freed from address 0 to 9.
+
+User Input
+alloc 5
+Memory allocated: Starting block = 0, Size = 5
+0
+User Input
+save 
+0 
+
+User Input
+compact
+
+User Input
+print_map
+
+a a a a a a a a a a 
+a a a a a a a a a a 
+a a a a a f f f f f 
+f f f f f f f f f f 
+f f f f f f f f f f 
+f f f f f f f f f f 
+f f f f f f f f f f 
+f f f f f f f f f f 
+f f f f f f f f f f 
+f f f f f f f f f f 
+
+
+User Input
+load
+0 
+
+User Input
+print_map
+
+a a a a a f f f f f 
+a a a a a a a a a a 
+a a a a a a a a a a 
+f f f f f f f f f f 
+f f f f f f f f f f 
+f f f f f f f f f f 
+f f f f f f f f f f 
+f f f f f f f f f f 
+f f f f f f f f f f 
+f f f f f f f f f f 
+
+
+User Input
+exit
